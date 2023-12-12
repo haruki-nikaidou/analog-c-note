@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>三极管的等效电路</p></figcaption></figure>
 
-右边那个东西是个受控电流源。
+右边那个东西是个流控电流源。
 
 ### 电压放大倍数
 

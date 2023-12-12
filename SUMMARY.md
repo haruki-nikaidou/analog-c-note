@@ -41,7 +41,7 @@
     * [三角波发生电路](bo-xing-fa-sheng-dian-lu-yu-dian-yuan-dian-lu/xu-ji-fan-zhuan-dian-lu/san-jiao-bo-fa-sheng-dian-lu.md)
     * [锯齿波发生电路](bo-xing-fa-sheng-dian-lu-yu-dian-yuan-dian-lu/xu-ji-fan-zhuan-dian-lu/ju-chi-bo-fa-sheng-dian-lu.md)
     * [波形转换电路](bo-xing-fa-sheng-dian-lu-yu-dian-yuan-dian-lu/xu-ji-fan-zhuan-dian-lu/bo-xing-zhuan-huan-dian-lu.md)
-* [滤波电路](lv-bo-dian-lu.md)
+* [有源滤波电路](you-yuan-lv-bo-dian-lu.md)
 * [信号处理电路](xin-hao-chu-li-dian-lu/README.md)
   * [差分信号](xin-hao-chu-li-dian-lu/cha-fen-xin-hao.md)
   * [仪表放大器](xin-hao-chu-li-dian-lu/yi-biao-fang-da-qi.md)
