@@ -49,7 +49,7 @@ $$
 
 如图所示为低通基本单元。
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>低通基本单元</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>低通基本单元</p></figcaption></figure>
 
 以上面那个电路为例，输入与输出的关系如下
 
@@ -83,8 +83,32 @@ $$
 
 这个定义的来源是，感觉快没了，所以就截止了。
 
+显然，低通基本单元的截止频率是
+
+$$
+f_H=\frac{1}{2\pi RC}
+$$
+
 #### 高通基本单元
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>高通单元</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>高通单元</p></figcaption></figure>
 
 高通基本单元差不多，这里就不过多介绍。
+
+同样的方法
+
+$$
+\dot{A}_u=\frac{R}{R+1/j\omega C}=\frac{1}{1-jf_0/f}
+$$
+
+得到其下限截止频率为
+
+$$
+f_L=f_0=\frac{1}{2\pi RC}
+$$
+
+其相移表达式为
+
+$$
+\phi = \tan ^{-1} \frac{f_L}{f}
+$$
