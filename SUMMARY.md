@@ -17,6 +17,7 @@
 * [放大电路](fang-da-dian-lu/README.md)
   * [放大电路的耦合方式](fang-da-dian-lu/fang-da-dian-lu-de-ou-he-fang-shi.md)
   * [静态工作点的计算](fang-da-dian-lu/jing-tai-gong-zuo-dian-de-ji-suan.md)
+  * [动态分析](fang-da-dian-lu/dong-tai-fen-xi.md)
   * [放大电路的接法](fang-da-dian-lu/fang-da-dian-lu-de-jie-fa.md)
   * [多级放大电路](fang-da-dian-lu/duo-ji-fang-da-dian-lu.md)
   * [放大电路的频率响应](fang-da-dian-lu/fang-da-dian-lu-de-pin-shuai-xiang-ying.md)
