@@ -1,7 +1,7 @@
 # Table of contents
 
 * [模拟电路笔记 - 引言](README.md)
-* [晶体管](<README (1).md>)
+* [晶体管](jing-ti-guan/README.md)
   * [三极管](jing-ti-guan/san-ji-guan.md)
   * [简单放大电路 & 静态工作点](jing-ti-guan/jian-dan-fang-da-dian-lu-jing-tai-gong-zuo-dian.md)
   * [场效应晶体管](jing-ti-guan/chang-xiao-ying-jing-ti-guan.md)
